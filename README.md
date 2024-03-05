@@ -30,7 +30,7 @@ https://github.com/salsabilmostafa/Signal_Equilizer-Task/assets/115428975/ed5f09
 ## Usage
 1. Clone the repository.
     ```bash
-    git clone https://github.com/salsabilmostafa/Signal_Equilizer-Task.git
+    git clone https://github.com/salsabilmostafa/Signal_Equalizer-Task.git
     ```
 2. Run the application.
     ```bash
